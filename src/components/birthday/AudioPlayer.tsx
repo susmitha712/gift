@@ -19,7 +19,7 @@ const AudioPlayer = ({ hasInteracted }: AudioPlayerProps) => {
     
     // Using a simple melody that's likely to work
     // You can replace this with an actual birthday song URL
-    audioRef.current.src = "src/assets/song2.mpeg";
+    audioRef.current.src = "assets/song2.mpeg";
     
     setIsLoaded(true);
 
