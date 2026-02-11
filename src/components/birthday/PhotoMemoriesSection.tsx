@@ -9,15 +9,15 @@ const photos = [
   { id: 1, src: "assets/img1.jpeg", caption: "Thank you so much for coming into my life🫂" },
 
 
-  { id: 2, src: "/public/assets/img2.jpeg", caption:"No matter where life takes us,this friendship will always be one my constants😊"},
-  { id: 3, src: "/public/assets/img9.jpeg", caption:"Let's be happy as long as we're together❤️" },
+  { id: 2, src: "assets/img2.jpeg", caption:"No matter where life takes us,this friendship will always be one my constants😊"},
+  { id: 3, src: "assets/img9.jpeg", caption:"Let's be happy as long as we're together❤️" },
  
-  { id: 5, src: "/public/assets/img5.jpeg", caption:"Thank you for being egoless and loyal towards me💗"},
-  { id: 7, src: "/public/assets/img11.jpeg", caption: "may be we're not close in distance but we're close by bond💞" },
-  { id: 8, src: "/public/assets/img12.jpeg", caption: "Thank you for staying even when I hurt you❤️‍🩹" },
+  { id: 5, src: "assets/img5.jpeg", caption:"Thank you for being egoless and loyal towards me💗"},
+  { id: 7, src: "assets/img11.jpeg", caption: "may be we're not close in distance but we're close by bond💞" },
+  { id: 8, src: "assets/img12.jpeg", caption: "Thank you for staying even when I hurt you❤️‍🩹" },
   
-  { id: 4, src: "/public/assets/img10.jpeg", caption:"hope we will meet and create memories soon🤗" },
-  { id: 6, src: "/public/assets/img8.jpeg", caption: "Finally I'm definetly gonna hug you for being always there for me🫂" },
+  { id: 4, src: "assets/img10.jpeg", caption:"hope we will meet and create memories soon🤗" },
+  { id: 6, src: "assets/img8.jpeg", caption: "Finally I'm definetly gonna hug you for being always there for me🫂" },
   
 ];
 
